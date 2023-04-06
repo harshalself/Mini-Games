@@ -1,3 +1,5 @@
+// NAME : HARSHAL PATIL
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -148,3 +150,109 @@ void choose()
 {
     cout<<"\n Enter Your Choice : ";
 }
+
+//OUTPUT
+
+/*---------------------
+ WELCOME TO THE GAME
+---------------------
+ **** MAIN MENU ****
+ 1. PLAY GAME
+ 2. SCORE TABLE
+ 3. EXIT
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ What Do You Want To Choose :
+ 1. STONE
+ 2. PAPER
+ 3. SCISSOR
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ Your Choice : STONE
+ CPU Choice : PAPER
+---------------------
+ CPU WIN :(
+---------------------
+ PLAY AGAIN
+ 1. YES
+ 2. NO
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ **** MAIN MENU ****
+ 1. PLAY GAME
+ 2. SCORE TABLE
+ 3. EXIT
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ What Do You Want To Choose :
+ 1. STONE
+ 2. PAPER
+ 3. SCISSOR
+---------------------
+ Enter Your Choice : 2
+
+---------------------
+ Your Choice : PAPER
+ CPU Choice : STONE
+---------------------
+ YOU WIN :)
+---------------------
+ PLAY AGAIN
+ 1. YES
+ 2. NO
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ **** MAIN MENU ****
+ 1. PLAY GAME
+ 2. SCORE TABLE
+ 3. EXIT
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ What Do You Want To Choose :
+ 1. STONE
+ 2. PAPER
+ 3. SCISSOR
+---------------------
+ Enter Your Choice : 3
+
+---------------------
+ Your Choice : SCISSOR
+ CPU Choice : PAPER
+---------------------
+ YOU WIN :)
+---------------------
+ PLAY AGAIN
+ 1. YES
+ 2. NO
+---------------------
+ Enter Your Choice : 1
+
+---------------------
+ **** MAIN MENU ****
+ 1. PLAY GAME
+ 2. SCORE TABLE
+ 3. EXIT
+---------------------
+ Enter Your Choice : 2
+
+---------------------
+ YOUR Score : 2
+ CPU Score : 1
+---------------------
+ PLAY AGAIN
+ 1. YES
+ 2. NO
+---------------------
+ Enter Your Choice : 2*/
