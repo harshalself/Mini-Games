@@ -1,4 +1,4 @@
-![Logo](https://i.gifer.com/RTSY.gif)
+.<center> ![Logo](https://media.tenor.com/7HFPLm7Rl8oAAAAM/321-count-down.gif)  </center>
 
 
 # Stone_Paper_Scissors
