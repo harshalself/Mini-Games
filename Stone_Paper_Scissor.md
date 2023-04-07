@@ -1,4 +1,4 @@
-![Logo](https://ck12live.s3.ap-south-1.amazonaws.com/user/5f38e05c43ae981e19db36ff/project_cover/original/1608732499126-hmm.png)
+![Logo](https://i.gifer.com/RTSY.gif)
 
 
 # Stone_Paper_Scissors
